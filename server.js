@@ -5,7 +5,7 @@ const app = express();
 
 
 // あなたのCloudflare WorkerのURL
-const CF_WORKER_URL = "https://x.shunichi-0314.workers.dev/";
+const CF_WORKER_URL = "https://game8.shunichi-0314.workers.dev/";
 
 
 
